@@ -1,4 +1,4 @@
-# SMB-clone
+# Mario Clone
 
 Clone of Super Mario Bros, World 1-1 through 1-4. Made with Unity.
 
